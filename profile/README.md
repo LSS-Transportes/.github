@@ -15,9 +15,9 @@ Realizamos coletas e entregas em nível nacional, integrando modal rodoviário, 
  
 | | |
 |---|---|
-| 🎯  **Missão** | Atender às necessidades dos nossos clientes, com as melhores soluções para o transporte de cargas e o melhor custo-benefício. |
-| 🔭  **Visão** | Ser referência no segmento de transporte de cargas expressas, mantendo a qualidade e transparência, bem como oferecendo as melhores opções de serviços. |
-| ⭐  **Valores** | Excelência • Qualidade • Ética • Transparência |
+| **Missão** | Atender às necessidades dos nossos clientes, com as melhores soluções para o transporte de cargas e o melhor custo-benefício. |
+| **Visão** | Ser referência no segmento de transporte de cargas expressas, mantendo a qualidade e transparência, bem como oferecendo as melhores opções de serviços. |
+| **Valores** | Excelência • Qualidade • Ética • Transparência |
 
 ## Nossas soluções
  
@@ -28,7 +28,7 @@ Realizamos coletas e entregas em nível nacional, integrando modal rodoviário, 
 - **Rastreabilidade** — status da carga, acompanhamento e informações em tempo real para o cliente.  
 ## Como operamos
  
-| 1️⃣ Solicitação | 2️⃣ Coleta | 3️⃣ Triagem | 4️⃣ Transporte | 5️⃣ Entrega |
+| Solicitação | Coleta | Triagem | Transporte | Entrega |
 |---|---|---|---|---|
 | Alinhamento de necessidade | Agendamento e retirada | Conferência e roteirização | Rodoviário ou aéreo | Comprovação ao cliente |
  
