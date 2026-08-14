@@ -1,5 +1,3 @@
-## AGILIDADE • SEGURANÇA • CONFIANÇA
-
 [![Site](https://img.shields.io/badge/site-lsstransportes.com.br-orange?style=flat-square)](https://lsstransportes.com.br)
 [![Base](https://img.shields.io/badge/base-Barueri%2FSP-1a2744?style=flat-square)](#)
  
