@@ -36,10 +36,6 @@ Realizamos coletas e entregas em nível nacional, integrando modal rodoviário, 
  
 E-commerce · Indústria · Tecnologia · Varejo · Autopeças · Eletrônicos · Materiais promocionais · Cosméticos
  
-## Cobertura
- 
-📍 Base: **Barueri/SP** — atuação em **todo o Brasil**, com soluções rodoviárias, aéreas e expressas para atender diferentes regiões e prazos.
- 
 ## Fale com a LSS Transportes
  
 Entre em contato e solicite uma solução logística sob medida para sua empresa.
