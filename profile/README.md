@@ -5,6 +5,7 @@
 [![Base](https://img.shields.io/badge/base-Barueri%2FSP-1a2744?style=flat-square)](#)
  
 </div>
+
  
 ## Quem somos
  
@@ -13,6 +14,7 @@ A **LSS Transportes** atua com soluções logísticas para empresas que precisam
 Realizamos coletas e entregas em nível nacional, integrando modal rodoviário, aéreo e operações expressas para atender demandas urgentes, programadas e dedicadas.
  
 Somos uma empresa de porte pequeno, mas com atendimento em **todo o território brasileiro**.
+
  
 ## Missão, Visão e Valores
  
@@ -21,6 +23,7 @@ Somos uma empresa de porte pequeno, mas com atendimento em **todo o território 
 | 🎯 **Missão** | Atender às necessidades dos nossos clientes, com as melhores soluções para o transporte de cargas e o melhor custo-benefício. |
 | 🔭 **Visão** | Ser referência no segmento de transporte de cargas expressas, mantendo a qualidade e transparência, bem como oferecendo as melhores opções de serviços. |
 | ⭐ **Valores** | Excelência • Qualidade • Ética • Transparência |
+
  
 ## Nossas soluções
  
@@ -29,6 +32,7 @@ Somos uma empresa de porte pequeno, mas com atendimento em **todo o território 
 - **Rodoviário e aéreo** — integração entre modais para ampliar alcance e reduzir tempo de entrega.
 - **SAC humanizado** — atendimento próximo, personalizado e consultivo durante toda a operação.
 - **Rastreabilidade** — status da carga, acompanhamento e informações em tempo real para o cliente.
+  
 ## Como operamos
  
 ```
@@ -36,18 +40,22 @@ Solicitação → Coleta → Triagem → Transporte → Entrega
  Briefing e   Agendamento  Conferência   Rodoviário    Comprovação
  necessidade  e retirada   e roteirização ou aéreo      ao cliente
 ```
+
  
 ## Segmentos atendidos
  
 E-commerce · Indústria · Tecnologia · Varejo · Autopeças · Eletrônicos · Materiais promocionais · Cosméticos
+
  
 ## Cobertura
  
 📍 Base: **Barueri/SP** — atuação em **todo o Brasil**, com soluções rodoviárias, aéreas e expressas para atender diferentes regiões e prazos.
+
  
 ## Nossos repositórios
  
 Esta organização reúne os projetos de tecnologia da LSS Transportes, incluindo o site institucional e ferramentas internas de automação operacional.
+
  
 ## Fale com a LSS Transportes
  
