@@ -1,11 +1,9 @@
 ## AGILIDADE • SEGURANÇA • CONFIANÇA
 
 [![Site](https://img.shields.io/badge/site-lsstransportes.com.br-orange?style=flat-square)](https://lsstransportes.com.br)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-11%2097828--6104-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511978286104)
 [![Base](https://img.shields.io/badge/base-Barueri%2FSP-1a2744?style=flat-square)](#)
  
 </div>
-
  
 ## Quem somos
  
@@ -15,7 +13,6 @@ Realizamos coletas e entregas em nível nacional, integrando modal rodoviário, 
  
 Somos uma empresa de porte pequeno, mas com atendimento em **todo o território brasileiro**.
 
- 
 ## Missão, Visão e Valores
  
 | | |
@@ -24,15 +21,13 @@ Somos uma empresa de porte pequeno, mas com atendimento em **todo o território 
 | 🔭 **Visão** | Ser referência no segmento de transporte de cargas expressas, mantendo a qualidade e transparência, bem como oferecendo as melhores opções de serviços. |
 | ⭐ **Valores** | Excelência • Qualidade • Ética • Transparência |
 
- 
 ## Nossas soluções
  
 - **Coletas e entregas nacionais** — atendimento em todo o Brasil para cargas fracionadas, dedicadas e operações sob demanda.
 - **Fretes expressos** — operações urgentes com prioridade operacional, comunicação ativa e foco em prazo.
 - **Rodoviário e aéreo** — integração entre modais para ampliar alcance e reduzir tempo de entrega.
 - **SAC humanizado** — atendimento próximo, personalizado e consultivo durante toda a operação.
-- **Rastreabilidade** — status da carga, acompanhamento e informações em tempo real para o cliente.
-  
+- **Rastreabilidade** — status da carga, acompanhamento e informações em tempo real para o cliente.  
 ## Como operamos
  
 ```
@@ -40,22 +35,18 @@ Solicitação → Coleta → Triagem → Transporte → Entrega
  Briefing e   Agendamento  Conferência   Rodoviário    Comprovação
  necessidade  e retirada   e roteirização ou aéreo      ao cliente
 ```
-
  
 ## Segmentos atendidos
  
 E-commerce · Indústria · Tecnologia · Varejo · Autopeças · Eletrônicos · Materiais promocionais · Cosméticos
-
  
 ## Cobertura
  
 📍 Base: **Barueri/SP** — atuação em **todo o Brasil**, com soluções rodoviárias, aéreas e expressas para atender diferentes regiões e prazos.
-
  
 ## Nossos repositórios
  
 Esta organização reúne os projetos de tecnologia da LSS Transportes, incluindo o site institucional e ferramentas internas de automação operacional.
-
  
 ## Fale com a LSS Transportes
  
