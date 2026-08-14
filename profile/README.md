@@ -5,7 +5,6 @@
 [![Base](https://img.shields.io/badge/base-Barueri%2FSP-1a2744?style=flat-square)](#)
  
 </div>
----
  
 ## Quem somos
  
@@ -60,7 +59,6 @@ Entre em contato e solicite uma solução logística sob medida para sua empresa
 | 💬 WhatsApp | (11) 97828-6104 |
 | 📍 Base | Barueri/SP — Atendimento nacional |
  
----
  
 <div align="center">
 <sub>LSS Transportes • Agilidade, Segurança e Confiança</sub>
