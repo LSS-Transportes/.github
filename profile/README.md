@@ -1,7 +1,7 @@
 <div align="center">
-<img src="./assets/logo.png" alt="LSS Transportes" width="260"/>
+<img src="./assets/Logo-LSS.png" alt="LSS Transportes" width="260"/>
 ### AGILIDADE • SEGURANÇA • CONFIANÇA
- 
+
 [![Site](https://img.shields.io/badge/site-lsstransportes.com.br-orange?style=flat-square)](https://lsstransportes.com.br)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-11%2097828--6104-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511978286104)
 [![Base](https://img.shields.io/badge/base-Barueri%2FSP-1a2744?style=flat-square)](#)
