@@ -10,8 +10,6 @@
 A **LSS Transportes** atua com soluções logísticas para empresas que precisam de agilidade, segurança e controle em suas operações.
  
 Realizamos coletas e entregas em nível nacional, integrando modal rodoviário, aéreo e operações expressas para atender demandas urgentes, programadas e dedicadas.
- 
-Somos uma empresa de porte pequeno, mas com atendimento em **todo o território brasileiro**.
 
 ## Missão, Visão e Valores
  
@@ -32,7 +30,7 @@ Somos uma empresa de porte pequeno, mas com atendimento em **todo o território 
  
 ```
 Solicitação → Coleta → Triagem → Transporte → Entrega
- Briefing e   Agendamento  Conferência   Rodoviário    Comprovação
+ Alinhamenteo de   Agendamento  Conferência   Rodoviário    Comprovação
  necessidade  e retirada   e roteirização ou aéreo      ao cliente
 ```
  
@@ -43,10 +41,6 @@ E-commerce · Indústria · Tecnologia · Varejo · Autopeças · Eletrônicos �
 ## Cobertura
  
 📍 Base: **Barueri/SP** — atuação em **todo o Brasil**, com soluções rodoviárias, aéreas e expressas para atender diferentes regiões e prazos.
- 
-## Nossos repositórios
- 
-Esta organização reúne os projetos de tecnologia da LSS Transportes, incluindo o site institucional e ferramentas internas de automação operacional.
  
 ## Fale com a LSS Transportes
  
