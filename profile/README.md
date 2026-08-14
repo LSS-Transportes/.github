@@ -28,11 +28,9 @@ Realizamos coletas e entregas em nível nacional, integrando modal rodoviário, 
 - **Rastreabilidade** — status da carga, acompanhamento e informações em tempo real para o cliente.  
 ## Como operamos
  
-```
-Solicitação → Coleta → Triagem → Transporte → Entrega
- Alinhamenteo de   Agendamento  Conferência   Rodoviário    Comprovação
- necessidade  e retirada   e roteirização ou aéreo      ao cliente
-```
+| 1️⃣ Solicitação | 2️⃣ Coleta | 3️⃣ Triagem | 4️⃣ Transporte | 5️⃣ Entrega |
+|---|---|---|---|---|
+| Alinhamento de necessidade | Agendamento e retirada | Conferência e roteirização | Rodoviário ou aéreo | Comprovação ao cliente |
  
 ## Segmentos atendidos
  
